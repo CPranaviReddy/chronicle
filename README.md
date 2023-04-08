@@ -54,13 +54,16 @@ https://pranavi-chronicle.onrender.com/
 1. Clone the [repo](https://github.com/CPranaviReddy/chronicle) to your local machine.
 
 **Backend Api server**
-2. On your local repo, run `npm install` to install dependencies.
+
+2. On your local repo change to server directory, run `npm install` to install dependencies.
 
 3. Create a file titled `.env` in the root folder of your local repo. Inside it, you will include your strong password.
    <pre><code>JWT_SECRET = (random password)</code></pre>
 
-**Frontend server**
 4. Run `npm start` to start the api backend server and should now be accessible on <http://localhost:3001>.
+
+**Frontend server**
+
  
 5. Change to app directory and run `npm install` to install dependencies.
 

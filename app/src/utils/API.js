@@ -1,5 +1,9 @@
 import axios from 'axios';
 
+const client = axios.create({
+  baseURL: "https://chronicle-backend.onrender.com/" 
+});
+
 
 export default {
 

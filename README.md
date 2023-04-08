@@ -8,6 +8,8 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 #### **[Deployed Application]**
 
+https://pranavi-chronicle.onrender.com/
+
 ## Table of Contents
 
 * [Demo](#demo)
